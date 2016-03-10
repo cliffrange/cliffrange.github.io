@@ -5,6 +5,6 @@ title = "about"
 
 +++
 
-## A coder
+## A company
 
-hesa coder
+thisa company
